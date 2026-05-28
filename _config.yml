@@ -1,4 +1,4 @@
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Fan Jiang"
 title_separator          : "-"
