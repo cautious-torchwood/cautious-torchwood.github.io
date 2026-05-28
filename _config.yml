@@ -4,9 +4,9 @@ title                    : "Fan Jiang"
 title_separator          : "-"
 name                     : &name "Fan Jiang"
 description              : &description "Fan Jiang's academic portfolio — LLM fine-tuning, model architecture, and quantization"
-url                      : https://jonasyjiang.github.io
+url                      : https://cautious-torchwood.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jonasyjiang/jonasyjiang.github.io"
+repository               : "cautious-torchwood/cautious-torchwood.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -18,7 +18,7 @@ author:
   bio              : "3rd-year undergraduate, Yuanpei College, Peking University. Research on LLM fine-tuning, model architecture, and quantization."
   location         : "Beijing, China"
   employer         : "Peking University"
-  uri              : "https://jonasyjiang.github.io"
+  uri              : "https://cautious-torchwood.github.io"
   email            : "23000866623@stu.pku.edu.cn"
   # Academic websites
   academia         : # URL
@@ -37,7 +37,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jonasyjiang"
+  github           : "cautious-torchwood"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
   # Social media
